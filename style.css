@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background: #87ceeb;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #d2b48c;
+}
+
+#ui {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-size: 16px;
+}
+
+button {
+  margin-top: 5px;
+  padding: 5px 10px;
+}
